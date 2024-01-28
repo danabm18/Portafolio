@@ -1,0 +1,36 @@
+---
+title: "About Us"
+editor: visual
+format:
+  html:
+    mainfont: "Bebas Neue"
+    toc: false
+---
+
+```{=html}
+<style>
+  body {
+    font-family: "Bebas Neue", sans-serif;
+    background-color: #000;
+    margin: 0;
+  }
+  h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2em;
+    color: #FFE4E1;
+    padding: 20px;
+  }
+  .image-container {
+    text-align: left;
+    margin-left: 1%; /* Ajusta este valor según tus preferencias */
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+```
+::: image-container
+<img src="./imagenes/about.png" alt="Descripción de la imagen"/>
+:::

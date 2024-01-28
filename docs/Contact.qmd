@@ -1,0 +1,14 @@
+---
+title: "Contact"
+editor: visual
+---
+
+# 4) Contacto {#contact}
+
+Texto sobre cómo contactarme...
+
+<form action="mailto:danabauer@hotmail.com" method="post" enctype="text/plain">
+  <label for="message">Mensaje:</label>
+  <textarea id="message" name="message" rows="4" cols="50"></textarea><br>
+  <input type="submit" value="Enviar">
+</form>

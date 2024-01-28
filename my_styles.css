@@ -1,0 +1,39 @@
+/* css styles */
+
+
+/* justificar el texto */ 
+p, ul, ol {
+  text-align: justify; }    
+
+.purple-background {
+  background-color: purple;
+}
+
+.pink-background {
+  background-color: pink;
+}
+
+.importante {
+  color: ##FFFFFF;
+  background-color: white;
+}
+
+
+.navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+/* Puedes agregar más estilos según tus preferencias */
